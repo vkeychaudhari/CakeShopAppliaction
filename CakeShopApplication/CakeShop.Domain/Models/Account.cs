@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CakeShop.Domain.Models
 {
-    internal class Account
+    public class Account
     {
         public int Id { get; set; }
 
